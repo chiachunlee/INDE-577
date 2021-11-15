@@ -12,7 +12,7 @@ While making decision tree, at each node of tree we ask different type of questi
 ##### Gini Impurity
 First let’s understand the meaning of Pure and Impure. Pure means, in a selected sample of dataset all data belongs to same class. Impure means, data is mixture of different classes. Gini Impurity is a measurement of the likelihood of an incorrect classification of a new instance of a random variable, if that new instance were randomly classified according to the distribution of class labels from the data set. If our dataset is Pure then likelihood of incorrect classification is 0. If our sample is mixture of different classes then likelihood of incorrect classification will be high.
 
-<img src="https://lh4.googleusercontent.com/uXug-BxfBY1whm_pRMn-H_v_qW2fdiS3UY-v4SDU2bhjyPo32eBysL_b5Rt1_wFvHIaj8r4RdZJIJHuodG6VP1lLNVd0Zmp4Q6 K7zsVPHRhGYUA787kRymadXxy1t1YV_NeovMs" width="500"/> 
+<img src="https://lh4.googleusercontent.com/uXug-BxfBY1whm_pRMn-H_v_qW2fdiS3UY-v4SDU2bhjyPo32eBysL_b5Rt1_wFvHIaj8r4RdZJIJHuodG6VP1lLNVd0Zmp4Q6-K7zsVPHRhGYUA787kRymadXxy1t1YV_NeovMs" width="500"/> 
 
 ##### Steps for Making decision tree
 1. Get list of rows (dataset) which are taken into consideration for making decision tree (recursively at each nodes).
