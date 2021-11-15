@@ -18,6 +18,8 @@ For supervised learning we cover the following topics:
 * Support Vector Machines
 * K-Nearest Neighbors
 * Decision/ Regression Trees
-<center>* Ensemble Learning </center>
+* Ensemble Learning 
 
-<center><img src="https://www.mathworks.com/help/stats/machinelearningtypes.jpg"100"/></center>
+<p align="center">
+  <img src="https://www.mathworks.com/help/stats/machinelearningtypes.jpg"100"/>
+</p>
