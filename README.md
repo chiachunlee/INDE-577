@@ -25,4 +25,4 @@ Topics include, but are not limited to:
 ### Programming Language  
 We will not only learn the thoeries behind the algorithm, but also learn how to implement the algorithm via code. Thus, we will learn programming in each class, and the programming language we will be using is Python because many data scientists choose Python as their programming language. As such, this course will be taught using Python, versions 3.6 and higher.
 
-<img src="https://static.javatpoint.com/tutorial/machine-learning/images/decision-tree-classification-algorithm.png" width="500"/> 
+<center><img src="https://wordstream-files-prod.s3.amazonaws.com/s3fs-public/machine-learning.png"500"/></center>
