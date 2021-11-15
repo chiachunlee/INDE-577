@@ -5,5 +5,5 @@ In unsupervised learning, as you might guess, the training data is unlabeled. Th
 
 <table><tr>
 <td> <img src="https://static.javatpoint.com/tutorial/machine-learning/images/unsupervised-machine-learning-2.png" width="400"/> </td>
-<td> <img src="https://pro.arcgis.com/en/pro-app/latest/tool-reference/spatial-statistics/GUID-A06A412D-2F4F-4D35-8FFF-1F4B3B3A8F16-web.png" width="500"/> </td>
+<td> <img src="https://pro.arcgis.com/en/pro-app/latest/tool-reference/spatial-statistics/GUID-A06A412D-2F4F-4D35-8FFF-1F4B3B3A8F16-web.png" width="400"/> </td>
 </tr></table>
