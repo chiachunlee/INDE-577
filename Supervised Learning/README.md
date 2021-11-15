@@ -6,4 +6,4 @@ A typical supervised learning task is classication. The spam filter is a good ex
 and it must learn how to classify new emails.  
 
 Another typical task is to predict a target numeric value, such as the price of a car, given a set of features (mileage, age, brand, etc.) called predictors. This sort of task is
-called regression. To train the system, you need to give it many examples of cars, including both their predictors and their labels (i.e., their prices). Some regression algorithms can be used for classification as well, and vice versa. For example, Logistic Regression is commonly used for classification, as it can output a value that corresponds to the probability of belonging to a given class
+called regression. To train the system, you need to give it many examples of cars, including both their predictors and their labels (i.e., their prices). Some regression algorithms can be used for classification as well, and vice versa. For example, Logistic Regression is commonly used for classification, as it can output a value that corresponds to the probability of belonging to a given class.
