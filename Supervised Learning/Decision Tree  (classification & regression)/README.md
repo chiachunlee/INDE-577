@@ -10,4 +10,14 @@ While making decision tree, at each node of tree we ask different type of questi
 
 <img src="https://lh4.googleusercontent.com/uXug-BxfBY1whm_pRMn-H_v_qW2fdiS3UY-v4SDU2bhjyPo32eBysL_b5Rt1_wFvHIaj8r4RdZJIJHuodG6VP1lLNVd0Zmp4Q6-K7zsVPHRhGYUA787kRymadXxy1t1YV_NeovMs" width="500"/>  
 
-Pi is the probability of an object that is being classified to a particular class. ##### Steps for Making decision tree 1. Get list of rows (dataset) which are taken into consideration for making decision tree (recursively at each nodes). 2. Calculate uncertanity of our dataset or Gini impurity or how much our data is mixed up etc. 3. Generate list of all question which needs to be asked at that node. 4. Partition rows into True rows and False rows based on each question asked. 5. Calculate information gain based on gini impurity and partition of data from previous step. 6. Update highest information gain based on each question asked. 7. Update best question based on information gain (higher information gain). 8. Divide the node on best question. Repeat again from step 1 again until we get pure node (leaf nodes). <p align="center"> <img src="https://static.javatpoint.com/tutorial/machine-learning/images/decision-tree-classification-algorithm.png" width="500"/> </p>
+Pi is the probability of an object that is being classified to a particular class. 
+
+##### Steps for Making decision tree 
+1. Get list of rows (dataset) which are taken into consideration for making decision tree (recursively at each nodes).
+2. Calculate uncertanity of our dataset or Gini impurity or how much our data is mixed up etc. 
+3. Generate list of all question which needs to be asked at that node.
+4. Partition rows into True rows and False rows based on each question asked. 
+5. Calculate information gain based on gini impurity and partition of data from previous step. 
+6. Update highest information gain based on each question asked. 
+7. Update best question based on information gain (higher information gain). 
+8. Divide the node on best question. Repeat again from step 1 again until we get pure node (leaf nodes). <p align="center"> <img src="https://static.javatpoint.com/tutorial/machine-learning/images/decision-tree-classification-algorithm.png" width="500"/> </p>
