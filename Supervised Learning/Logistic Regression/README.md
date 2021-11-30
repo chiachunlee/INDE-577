@@ -11,5 +11,5 @@ A solution for classification is logistic regression. Instead of fitting a strai
  
 And it looks like this: <img src="https://christophm.github.io/interpretable-ml-book/images/logistic-function-1.png" width="500"/> <center>It outputs numbers between 0 and 1. At input 0, it outputs 0.5.</center>   
 In the linear regression model, we have modelled the relationship between outcome and features with a linear equation: 
-<img src="https://render.githubusercontent.com/render/math?math=\hat y^i=\beta_{0}%2B\beta_{1}x_{1}^i%2B">...<img src="https://render.githubusercontent.com/render/math?math=%2B\beta_{p}x_{p}^i">
+<img src="https://render.githubusercontent.com/render/math?math=\hat y^i=\beta_{0}%2B\beta_{1}x_{1}^i%2B..."><img src="https://render.githubusercontent.com/render/math?math=%2B\beta_{p}x_{p}^i">
 
