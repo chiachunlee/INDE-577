@@ -5,7 +5,7 @@ In KNN, the distance between the test data and the training points is used to pr
 
 The output depends on whether K-NN is used for classification or regression:
 * In K-NN classification, the output is a class membership. An object is classified by a plurality vote of its neighbors, with the object being assigned to the class most common among its k nearest neighbors (k is a positive integer, typically small). If k = 1, then the object is simply assigned to the class of that single nearest neighbor.
-* In k-NN regression, the output is the property value for the object. This value is the average of the values of k nearest neighbors.  
+* In K-NN regression, the output is the property value for the object. This value is the average of the values of k nearest neighbors.  
 
 K-NN is a type of classification where the function is only approximated locally and all computation is deferred until function evaluation. Since this algorithm relies on distance for classification, if the features represent different physical units or come in vastly different scales then normalizing the training data can improve its accuracy dramatically. The smaller the K, the more complex of the model. 
 
