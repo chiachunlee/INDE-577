@@ -1,6 +1,6 @@
 ## Decision Trees 
 ------------------------ 
-This folder contains Classification Tree and Regression Tree. 
+This folder contains Classification Tree and Regression Tree methods introduction and code implemetation. 
 
 ### What is decision tree? 
 A decision tree is a type of non-parametric supervised learning that can be used for both regression and classification. In this notebook we explore classification decision trees on an artificial dataset. Decision Trees are a type of Supervised Machine Learning where the data is continuously split according to a certain parameter. The tree can be explained by two entities, namely decision nodes and leaves. The leaves are the decisions or the final outcomes. And the decision nodes are where the data is split. 
