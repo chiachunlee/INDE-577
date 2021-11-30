@@ -10,4 +10,7 @@ common notation:
 - <img src="https://render.githubusercontent.com/render/math?math=\hat{y}_i"> is the predicted response (or fitted value) for experimental unit i  
 
 Then, the equation for the best fitting line is:
-<img src="https://render.githubusercontent.com/render/math?math=\hat{y}_i=b_0 %2B b_1x_i">
+<img src="https://render.githubusercontent.com/render/math?math=\hat{y}_i=b_0 %2B b_1x_i">  
+
+n general, when we use <img src="https://render.githubusercontent.com/render/math?math=\hat{y}_i=b_0 %2B b_1x_i"> to predict the actual response <img src="https://render.githubusercontent.com/render/math?math=\hat{y}_i"> we make a prediction error (or residual error) of size: <img src="https://render.githubusercontent.com/render/math?math=e_i=y_i-\hat{y}_i">
+
