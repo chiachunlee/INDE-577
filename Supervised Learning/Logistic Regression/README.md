@@ -14,7 +14,7 @@ In the linear regression model, we have modelled the relationship between outcom
 <img src="https://render.githubusercontent.com/render/math?math=\hat y^i=\beta_{0}%2B\beta_{1}x_{1}^i%2B...%2B\beta_{p}x_{p}^i">   
                                                                                                                                      
 For classification, we prefer probabilities between 0 and 1, so we wrap the right side of the equation into the logistic function. This forces the output to assume only values between 0 and 1.  
-<img src="https://render.githubusercontent.com/render/math?math=P(y^i=1)=\displaystyle\frac{1}{1%2Bexp(-(\beta_{0}+\beta_{1}x_{1}^i+…+\beta_{p}x_{p}^i))}"> 
+<img src="https://render.githubusercontent.com/render/math?math=P(y^i=1)=\displaystyle\frac{1}{1%2Bexp(-(\beta_{0}+\beta_{1}x_{1}^i%2B...%2B\beta_{p}x_{p}^i))}"> 
 
                                                                                                                                      
                                                                                                                                   
