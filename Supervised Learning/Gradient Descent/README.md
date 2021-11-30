@@ -5,3 +5,5 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Gradient_descent.svg/350px-Gradient_descent.svg.png" width="400" align = 'center'/>
 
 Gradient Descent is an optimization algorithm for finding a local minimum of a differentiable function. Gradient descent is simply used in machine learning to find the values of a function's parameters (coefficients) that minimize a cost function as far as possible.
+
+This folder contains introduction of gradient descent and its implementation. We will also use Fish dataset in the notebook for the gradient descent, and use it to implement regression.
