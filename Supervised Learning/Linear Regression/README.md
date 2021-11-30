@@ -27,3 +27,7 @@ Assumption:
 - Independence of errors
 - Constant variance (homoscedasticity). This means that the variance of the errors does not depend on the values of the predictor variables
 - Errors are normally distributed
+
+The OLS method minimizes the sum of squared residuals, and leads to a closed-form expression for the estimated value of the unknown parameter vector β: <img src="https://render.githubusercontent.com/render/math?math={\displaystyle {\hat {\boldsymbol {\beta }}}=(\mathbf {X} ^{\mathsf {T}}\mathbf {X} )^{-1}\mathbf {X} ^{\mathsf {T}}\mathbf {y} ,}">
+
+
