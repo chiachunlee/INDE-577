@@ -22,4 +22,8 @@ A line that fits the data "best" will be one for which the n prediction errors â
 The formulas are determined using methods of calculus. We minimize the equation for the sum of the squared prediction errors: <img src="https://render.githubusercontent.com/render/math?math=Q=\sum_{i=1}^{n}(y_i-(b_0+b_1x_i))^2">    
 Take the derivative with respect to b0 and b1, set to 0, and solve for b0 and b1 and get the "least squares estimates" for b0 and b1: <img src="https://render.githubusercontent.com/render/math?math=b_0=\bar{y}-b_1\bar{x}"> and <img src="https://render.githubusercontent.com/render/math?math=b_1=\frac{\sum_{i=1}^{n}(x_i-\bar{x})(y_i-\bar{y})}{\sum_{i=1}^{n}(x_i-\bar{x})^2}">
 
-
+Assumption:
+- Linear: the mean of the response variable is a linear combination of the parameters (regression coefficients) and the predictor variable
+- Independence of errors
+- Constant variance (homoscedasticity). This means that the variance of the errors does not depend on the values of the predictor variables
+- Errors are normally distributed
