@@ -10,7 +10,4 @@ The linear regression model can work well for regression, but fails for classifi
 A solution for classification is logistic regression. Instead of fitting a straight line or hyperplane, the logistic regression model uses the logistic function to squeeze the output of a linear equation between 0 and 1. The logistic function is defined as: <img src="https://render.githubusercontent.com/render/math?math=\sigma(z) = \frac{1}{1%2Be^{-z}}">
  
 And it looks like this: <img src="https://christophm.github.io/interpretable-ml-book/images/logistic-function-1.png" width="500"/> <center>It outputs numbers between 0 and 1. At input 0, it outputs 0.5.</center>   
-In the linear regression model, we have modelled the relationship between outcome and features with a linear equation: <img src="https://render.githubusercontent.com/render/math?math=\hat y^i=	\beta_0+	\beta_1x_1^i+…+	\beta_px_p^i"> 
-For classification, we prefer probabilities between 0 and 1, so we wrap the right side of the equation into the logistic function. This forces the output to assume only values between 0 and 1.  
-<img src="https://render.githubusercontent.com/render/math?math=P(y^i=1)=\displaystyle\frac{1}{1+exp(-(β_{0}+β_{1}x_{1}^i+…+β_{p}x_{p}^i))}"> 
-
+In the linear regression model, we have modelled the relationship between outcome and features with a linear equation: 
