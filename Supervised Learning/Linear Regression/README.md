@@ -10,5 +10,4 @@ common notation:
 - <img src="https://render.githubusercontent.com/render/math?math=\hat{y}_i"> is the predicted response (or fitted value) for experimental unit i  
 
 Then, the equation for the best fitting line is:
-<img src="https://render.githubusercontent.com/render/math?math=\hat{y}_i=b_0+b_1x_i
-">
+<img src="https://render.githubusercontent.com/render/math?math=\hat{y}_i=b_0+b_1x_i">
