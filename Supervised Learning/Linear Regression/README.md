@@ -7,5 +7,8 @@ Simple linear regression gets its adjective "simple," because it concerns the st
 common notation:
 - yi denotes the observed response for experimental unit i  
 - xi denotes the predictor value for experimental unit i
-- <img src="https://render.githubusercontent.com/render/math?math=\hat{y}_i"> is the predicted response (or fitted value) for experimental unit i
+- <img src="https://render.githubusercontent.com/render/math?math=\hat{y}_i"> is the predicted response (or fitted value) for experimental unit i  
 
+Then, the equation for the best fitting line is:
+<img src="https://render.githubusercontent.com/render/math?math=\hat{y}_i=b_0+b_1x_i
+">
