@@ -30,4 +30,4 @@ Assumption:
 
 The OLS method minimizes the sum of squared residuals, and leads to a closed-form expression for the estimated value of the unknown parameter vector β: <img src="https://render.githubusercontent.com/render/math?math={\displaystyle {\hat {\boldsymbol {\beta }}}=(\mathbf {X} ^{\mathsf {T}}\mathbf {X} )^{-1}\mathbf {X} ^{\mathsf {T}}\mathbf {y} ,}">
 
-
+[!image](https://miro.medium.com/max/1376/1*G1Y_-X14q2xMVHlUuaUUdA.png)
