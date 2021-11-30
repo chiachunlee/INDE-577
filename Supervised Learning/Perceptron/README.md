@@ -10,6 +10,11 @@ The perceptron drawn as a neuron
 <img src="https://miro.medium.com/max/700/1*n6sJ4yZQzwKL9wnF5wnVNg.png" width="500"/>  
 
 The input data will be paired with the corresponding weights and sum together, and the put into an activation function to create the output.
-<img src="https://render.githubusercontent.com/render/math?math=\hat y^i = \text{sign}(w^T\bar x^i)">  
+<img src="https://render.githubusercontent.com/render/math?math=\hat y^i = \text{sign}(w^T\bar x^i)">    
+
+There are different kinds of activation functions such as step function, sign function, and Relu, etc., and you can try different one base on your need and see which one fits the model.
+
+For example: Step Function.  
+![image for step function](https://miro.medium.com/max/480/1*0iOzeMS3s-3LTU9hYH9ryg.png)
 
  
