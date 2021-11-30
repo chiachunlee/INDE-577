@@ -2,7 +2,7 @@
 [Principal Component Analysis](https://builtin.com/data-science/step-step-explanation-principal-component-analysis), or PCA, is a dimensionality-reduction method that is often used to reduce the dimensionality of large data sets, by transforming a large set of variables into a smaller one that still contains most of the information in the large set.
 
 Reducing the number of variables of a data set naturally comes at the expense of accuracy, but the trick in dimensionality reduction is to trade a little accuracy for simplicity. Because smaller data sets are easier to explore and visualize and make analyzing data much easier and faster for machine learning algorithms without extraneous variables to process. Geometrically speaking, principal components represent the directions of the data that explain a maximal amount of variance, that is to say, the lines that capture most information of the data. 
-<img src="http://ordination.okstate.edu/3varpca.jpg" width="700"/>  
+<img src="http://ordination.okstate.edu/3varpca.jpg" width="500"/>  
 
 ### K-Means Clustering
 [K-means clustering](https://towardsdatascience.com/understanding-k-means-clustering-in-machine-learning-6a6e67336aa1) is one of the popular unsupervised machine learning algorithms.
