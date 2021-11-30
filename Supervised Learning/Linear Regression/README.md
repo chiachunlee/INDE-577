@@ -17,4 +17,7 @@ In general, when we use <img src="https://render.githubusercontent.com/render/ma
 A line that fits the data "best" will be one for which the n prediction errors — one for each observed data point — are as small as possible in some overall sense. One way to achieve this goal is to invoke the "least squares criterion," which says to "minimize the sum of the squared prediction errors." That is:  
 - The equation of the best fitting line is: <img src="https://render.githubusercontent.com/render/math?math=\hat{y}_i=b_0 %2B b_1x_i">  
 - We just need to find the values b0 and b1 that make the sum of the squared prediction errors the smallest it can be.
-- That is, we need to find the values b0 and b1 that minimize: <img src="https://render.githubusercontent.com/render/math?math=Q=\sum_{i=1}^{n}(y_i-\hat{y}_i)^2">
+- That is, we need to find the values b0 and b1 that minimize: <img src="https://render.githubusercontent.com/render/math?math=Q=\sum_{i=1}^{n}(y_i-\hat{y}_i)^2">  
+
+The formulas are determined using methods of calculus. We minimize the equation for the sum of the squared prediction errors: <img src="https://render.githubusercontent.com/render/math?math=Q=\sum_{i=1}^{n}(y_i-(b_0+b_1x_i))^2">  
+
