@@ -10,3 +10,6 @@ yi denotes the observed response for experimental unit i
 xi denotes the predictor value for experimental unit i
 $\hat{y}_i$ is the predicted response (or fitted value) for experimental unit i
 Then, the equation for the best fitting line is:
+```math
+SE = \frac{\sigma}{\sqrt{n}}
+```
