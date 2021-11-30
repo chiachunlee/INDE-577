@@ -20,6 +20,6 @@ A line that fits the data "best" will be one for which the n prediction errors â
 - That is, we need to find the values b0 and b1 that minimize: <img src="https://render.githubusercontent.com/render/math?math=Q=\sum_{i=1}^{n}(y_i-\hat{y}_i)^2">  
 
 The formulas are determined using methods of calculus. We minimize the equation for the sum of the squared prediction errors: <img src="https://render.githubusercontent.com/render/math?math=Q=\sum_{i=1}^{n}(y_i-(b_0+b_1x_i))^2">    
-Take the derivative with respect to b0 and b1, set to 0, and solve for b0 and b1 and get the "least squares estimates" for b0 and b1: <img src="https://render.githubusercontent.com/render/math?math=b_0=\bar{y}-b_1\bar{x}">
+Take the derivative with respect to b0 and b1, set to 0, and solve for b0 and b1 and get the "least squares estimates" for b0 and b1: <img src="https://render.githubusercontent.com/render/math?math=b_0=\bar{y}-b_1\bar{x}"> and <img src="https://render.githubusercontent.com/render/math?math=b_1=\frac{\sum_{i=1}^{n}(x_i-\bar{x})(y_i-\bar{y})}{\sum_{i=1}^{n}(x_i-\bar{x})^2}">
 
 
