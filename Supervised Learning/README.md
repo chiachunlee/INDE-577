@@ -23,3 +23,8 @@ For supervised learning we cover the following topics:
 <p align="center">
   <img src="https://www.mathworks.com/help/stats/machinelearningtypes.jpg"100"/>
 </p>
+                                                                              
+                                                                              
+##### Reference
+Gandhi, Rohith. “Support Vector Machine - Introduction to Machine Learning Algorithms.” Medium, Towards Data Science, 5 July 2018, https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47.                                                                               
+                                                                              
