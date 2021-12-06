@@ -18,3 +18,5 @@ For example: Step Function.
 ![image for step function](https://miro.medium.com/max/480/1*0iOzeMS3s-3LTU9hYH9ryg.png)
 
  
+#### Reference
+Datasciencelab, W. by, & by, W. (2014, January 10). Machine learning classics: The Perceptron. The Data Science Lab. Retrieved November 10, 2021, from https://datasciencelab.wordpress.com/2014/01/10/machine-learning-classics-the-perceptron/.
