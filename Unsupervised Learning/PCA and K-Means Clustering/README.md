@@ -24,6 +24,8 @@ PCA will project the data onto a lower dimension space that explains a maximal a
 <img src="https://editor.analyticsvidhya.com/uploads/56854k%20means%20clustering.png" width="700"/>  
 
 #### References
-Garbade, Dr. Michael J. “Understanding K-Means Clustering in Machine Learning.” Medium, Towards Data Science, 12 Sept. 2018, https://towardsdatascience.com/understanding-k-means-clustering-in-machine-learning-6a6e67336aa1#:~:text=K%2Dmeans%20clustering%20is%20one,known%2C%20or%20labelled%2C%20outcomes. 
+Jaadi, Z. (n.d.). A step-by-step explanation of principal component analysis (PCA). Built In. Retrieved November 11, 2021, from https://builtin.com/data-science/step-step-explanation-principal-component-analysis.
 
-Pratt, Mary K. “What Is Unsupervised Learning?” SearchEnterpriseAI, TechTarget, 8 July 2020, https://searchenterpriseai.techtarget.com/definition/unsupervised-learning. 
+Garbade, D. M. J. (2018, September 12). Understanding K-means clustering in machine learning. Medium. Retrieved November 11, 2021, from https://towardsdatascience.com/understanding-k-means-clustering-in-machine-learning-6a6e67336aa1.
+
+K means clustering: K means clustering algorithm in machine learning. Analytics Vidhya. (2021, January 22). Retrieved November 11, 2021, from https://www.analyticsvidhya.com/blog/2021/01/in-depth-intuition-of-k-means-clustering-algorithm-in-machine-learning/.
