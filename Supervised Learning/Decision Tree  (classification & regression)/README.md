@@ -23,3 +23,8 @@ Pi is the probability of an object that is being classified to a particular clas
 6. Update highest information gain based on each question asked. 
 7. Update best question based on information gain (higher information gain). 
 8. Divide the node on best question. Repeat again from step 1 again until we get pure node (leaf nodes). <p align="center"> <img src="https://static.javatpoint.com/tutorial/machine-learning/images/decision-tree-classification-algorithm.png" width="500"/> </p>
+
+##### References
+K means clustering: K means clustering algorithm in machine learning. Analytics Vidhya. (2021, January 22). Retrieved November 11, 2021, from https://www.analyticsvidhya.com/blog/2021/01/in-depth-intuition-of-k-means-clustering-algorithm-in-machine-learning/.
+
+Jaadi, Z. (n.d.). A step-by-step explanation of principal component analysis (PCA). Built In. Retrieved November 11, 2021, from https://builtin.com/data-science/step-step-explanation-principal-component-analysis.
