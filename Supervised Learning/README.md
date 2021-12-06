@@ -28,7 +28,5 @@ For supervised learning we cover the following topics:
 ##### Reference
 Géron Aurélien. Hands-on Machine Learning with Scikit-Learn, Keras, and Tensorflow Concepts, Tools, and Techniques to Build Intelligent Systems. O'Reilly, 2020.                   
                                                                               
-Mel, Luca. “Kyphosis Disease Classification.” Medium, Data-Py-Blog, 18 Nov. 2019, https://medium.com/data-py-blog/kyphosis-disease-classification-fe275f05dbb5. 
-
-“Introduction to Random Forest in Machine Learning.” Section, https://www.section.io/engineering-education/introduction-to-random-forest-in-machine-learning/.                                                                               
+                                                                           
                                                                               
