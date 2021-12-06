@@ -16,6 +16,10 @@ In the linear regression model, we have modelled the relationship between outcom
 For classification, we prefer probabilities between 0 and 1, so we wrap the right side of the equation into the logistic function. This forces the output to assume only values between 0 and 1.  
 <img src="https://render.githubusercontent.com/render/math?math=P(y^i=1)=\displaystyle\frac{1}{1%2Bexp(-(\beta_{0}+\beta_{1}x_{1}^i%2B...%2B\beta_{p}x_{p}^i))}"> 
 
-                                                                                                                                     
+#### References
+References
+datasciencelab, W. by, & by, W. (2014, January 10). Machine learning classics: The Perceptron. The Data Science Lab. Retrieved November 10, 2021, from https://datasciencelab.wordpress.com/2014/01/10/machine-learning-classics-the-perceptron/.
+
+Speech and Language Processing. Daniel Jurafsky & James H. Martin.Draft of September 21, 2021.
                                                                                                                                   
 
