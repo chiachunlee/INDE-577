@@ -13,4 +13,4 @@ K-NN is a type of classification where the function is only approximated locally
 ![Image of knn1](http://res.cloudinary.com/dyd911kmh/image/upload/f_auto,q_auto:best/v1531424125/KNN_final1_ibdm8a.png)
 
 ##### References
-datasciencelab, W. by, & by, W. (2014, January 10). Machine learning classics: The Perceptron. The Data Science Lab. Retrieved November 10, 2021, from https://datasciencelab.wordpress.com/2014/01/10/machine-learning-classics-the-perceptron/.
+Christopher, Antony. “K-Nearest Neighbor.” Medium, The Startup, 3 Feb. 2021, https://medium.com/swlh/k-nearest-neighbor-ca2593d7a3c4. 
