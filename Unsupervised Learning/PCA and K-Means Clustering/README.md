@@ -22,3 +22,6 @@ How the K-means algorithm works:
  
 PCA will project the data onto a lower dimension space that explains a maximal amount of variance of the data, after that we can better apply k-means clustering. Because we can see the data on a low dimension space that explains a maximal amount of variance, data are more clearly spreadout, and so it is easier to group the data with larger spread.   
 <img src="https://editor.analyticsvidhya.com/uploads/56854k%20means%20clustering.png" width="700"/>  
+
+#### References
+Garbade, Dr. Michael J. “Understanding K-Means Clustering in Machine Learning.” Medium, Towards Data Science, 12 Sept. 2018, https://towardsdatascience.com/understanding-k-means-clustering-in-machine-learning-6a6e67336aa1#:~:text=K%2Dmeans%20clustering%20is%20one,known%2C%20or%20labelled%2C%20outcomes. 
