@@ -25,3 +25,5 @@ PCA will project the data onto a lower dimension space that explains a maximal a
 
 #### References
 Garbade, Dr. Michael J. “Understanding K-Means Clustering in Machine Learning.” Medium, Towards Data Science, 12 Sept. 2018, https://towardsdatascience.com/understanding-k-means-clustering-in-machine-learning-6a6e67336aa1#:~:text=K%2Dmeans%20clustering%20is%20one,known%2C%20or%20labelled%2C%20outcomes. 
+
+Pratt, Mary K. “What Is Unsupervised Learning?” SearchEnterpriseAI, TechTarget, 8 July 2020, https://searchenterpriseai.techtarget.com/definition/unsupervised-learning. 
