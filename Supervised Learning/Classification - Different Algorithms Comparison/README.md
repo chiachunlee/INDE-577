@@ -2,9 +2,9 @@ In this file, we will compare different algorithmes by performing the same binar
 
 We also introduce Support Vector Machine (SVM) in this notebook. 
 
-
+<table><tr>
 <td> <img src="https://miro.medium.com/max/600/0*9jEWNXTAao7phK-5.png" width="400"/> </td>
-<td> <img src="https://miro.medium.com/max/600/0*0o8xIA4k3gXUDCFU.png" width="500"/> </td>
+<td> <img src="https://miro.medium.com/max/600/0*0o8xIA4k3gXUDCFU.png" width="400"/> </td>
 </tr></table>
 
 
