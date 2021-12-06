@@ -26,5 +26,5 @@ For supervised learning we cover the following topics:
                                                                               
                                                                               
 ##### Reference
-Gandhi, Rohith. “Support Vector Machine - Introduction to Machine Learning Algorithms.” Medium, Towards Data Science, 5 July 2018, https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47.                                                                               
+Géron Aurélien. Hands-on Machine Learning with Scikit-Learn, Keras, and Tensorflow Concepts, Tools, and Techniques to Build Intelligent Systems. O'Reilly, 2020.                                                                            
                                                                               
