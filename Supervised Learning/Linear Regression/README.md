@@ -32,3 +32,5 @@ The OLS method minimizes the sum of squared residuals, and leads to a closed-for
 
 <img src="https://miro.medium.com/max/1376/1*G1Y_-X14q2xMVHlUuaUUdA.png" width="700"/>
 
+#### Reference
+Christopher, Antony. “K-Nearest Neighbor.” Medium, The Startup, 3 Feb. 2021, https://medium.com/swlh/k-nearest-neighbor-ca2593d7a3c4. 
